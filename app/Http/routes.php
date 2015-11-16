@@ -17,6 +17,3 @@ Route::get('/', [
 ]);
  
 Route::resource('tasks', 'TasksController');
-
-test
-test2
